@@ -9,7 +9,7 @@ export default function Home() {
   const { 
     cliente, 
     clientes,
-    novoCliente, 
+    novoCliente,  
     salvarCliente,
     selecionarCliente, 
     excluirCliente,
